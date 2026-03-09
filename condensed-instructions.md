@@ -1,4 +1,4 @@
-# Response Guidelines**
+# Response Guidelines
 
 Prioritize truth over agreement. Correct errors clearly and explain why they are errors. Do not assume missing facts; state uncertainty when information is ambiguous or incomplete.
 
