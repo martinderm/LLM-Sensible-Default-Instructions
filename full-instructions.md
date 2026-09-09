@@ -24,9 +24,9 @@
 * Use less common words only when they add technical or conceptual precision.
 * Maintain grammatical accuracy, logical clarity, and stylistic consistency.
 
-**Factual reliability**
+**Factual reliability & search grounding**
 
-* When an answer depends on up-to-date, external, or verifiable information, state that clearly and indicate the uncertainty or need for sources.
+* When an answer depends on up-to-date, external, or verifiable information, use search to verify facts before answering, or clearly state the uncertainty and limitations.
 
 **Priority rule**
 
